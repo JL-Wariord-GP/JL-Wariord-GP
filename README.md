@@ -79,7 +79,7 @@ Como Desarrollador me especializo en **Frontend** y **Backend** con experiencia 
 
 ---
 
-### 🌍 **Conéctate Conmigo**
+### 🌍 **Conecta Conmigo**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jorge-gomez-615072120)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white&style=flat)](https://github.com/JL-Wariord-GP)
